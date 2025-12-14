@@ -58,4 +58,7 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},{
+    "name": "aqbar-wawa",   
+    "address": "https://github.com/aqbar-wawa"
 }
