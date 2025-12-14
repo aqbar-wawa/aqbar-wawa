@@ -60,6 +60,6 @@
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
 {
-    "name": "[aqbar-wawa]",   //[aqbar-wawa].github.io/[aqbar-wawa/aqbar-wawa]/serves.json
+    "name": "[aqbar-wawa]",
     "address": "[github.com/aqbar-wawa]"
 }
